@@ -1,1 +1,6 @@
+# Ignore environment variables
+.env
+
+# Ignore data and figure folders and all its contents
+data/
 figures/
