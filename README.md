@@ -92,3 +92,17 @@ If you extend this project, consider modularizing new functionality here.
 Sébastien Giroud — ETH Zürich / Eawag
 
 If you use this code in a publication, please cite accordingly.
+
+Related Publications and Data
+
+This repository supports the analyses presented in the following publication:
+
+## Peer-Reviewed Article
+Resilience of deep aquifer microbial communities to seasonal hydrological fluctuations
+Authors: Sébastien Giroud, Longhui Deng, Mark A. Lever, Oliver S. Schilling, Rolf Kipfer
+DOI: https://doi.org/10.1073/pnas.2422608122
+
+## Supporting Dataset
+Data for: Resilience of deep aquifer microbial communities to seasonal hydrological fluctuations
+Authors: Sébastien Giroud, Matthias Brennwald, Oliver S. Schilling, Rolf Kipfer
+DOI: https://doi.org/10.1073/pnas.2422608122
